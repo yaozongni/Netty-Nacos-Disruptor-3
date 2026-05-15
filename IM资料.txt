@@ -69,3 +69,34 @@ SyncUnreadMsgPlugin
 UnSubscribeChannelPlugin 
 UnSubscribePlugin
 UnknownPlugin
+
+
+协商XMPP TLS
+打开XMPP Stream
+IQ消息
+Sub子类型
+订阅模块
+取消订阅模块
+订阅直播频道
+取消订阅直播频道
+
+Query子类型：
+查询mcode
+查询配置
+查询消息列表
+查询会话列表
+拉取未读消息
+查询离线消息范围
+
+上报Push Token
+通知消息已读
+
+
+删除聊天消息
+删除聊天会话
+
+拒绝消息
+
+登录消息
+ACK消息
+登出消息
